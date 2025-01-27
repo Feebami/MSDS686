@@ -1,3 +1,5 @@
 mnist/
 auto_mpg/
 reuters/
+reuters_TB/
+logs/
