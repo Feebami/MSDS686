@@ -7,3 +7,6 @@ fashion_mnist/
 untitled_project/
 pytorch_implementations/data/
 pytorch_implementations/lightning_logs/
+PetImages/
+catvdog_small/
+lightning_logs/
